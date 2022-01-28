@@ -1,0 +1,141 @@
+{
+  "configVersion": 1,
+  "timestamp": 1643389534508,
+  "index": "feifweb/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "feifweb/favicon.ico",
+        "feifweb/index.html",
+        "feifweb/main.6a352ac405a5ed69.js",
+        "feifweb/manifest.webmanifest",
+        "feifweb/polyfills.1704a7946a8cb6b6.js",
+        "feifweb/runtime.b10484188b67e61a.js",
+        "feifweb/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "feifweb/assets/icon2.jpeg",
+        "feifweb/assets/icons/apple-icon-180.png",
+        "feifweb/assets/icons/apple-splash-1125-2436.jpg",
+        "feifweb/assets/icons/apple-splash-1136-640.jpg",
+        "feifweb/assets/icons/apple-splash-1170-2532.jpg",
+        "feifweb/assets/icons/apple-splash-1242-2208.jpg",
+        "feifweb/assets/icons/apple-splash-1242-2688.jpg",
+        "feifweb/assets/icons/apple-splash-1284-2778.jpg",
+        "feifweb/assets/icons/apple-splash-1334-750.jpg",
+        "feifweb/assets/icons/apple-splash-1536-2048.jpg",
+        "feifweb/assets/icons/apple-splash-1620-2160.jpg",
+        "feifweb/assets/icons/apple-splash-1668-2224.jpg",
+        "feifweb/assets/icons/apple-splash-1668-2388.jpg",
+        "feifweb/assets/icons/apple-splash-1792-828.jpg",
+        "feifweb/assets/icons/apple-splash-2048-1536.jpg",
+        "feifweb/assets/icons/apple-splash-2048-2732.jpg",
+        "feifweb/assets/icons/apple-splash-2160-1620.jpg",
+        "feifweb/assets/icons/apple-splash-2208-1242.jpg",
+        "feifweb/assets/icons/apple-splash-2224-1668.jpg",
+        "feifweb/assets/icons/apple-splash-2388-1668.jpg",
+        "feifweb/assets/icons/apple-splash-2436-1125.jpg",
+        "feifweb/assets/icons/apple-splash-2532-1170.jpg",
+        "feifweb/assets/icons/apple-splash-2688-1242.jpg",
+        "feifweb/assets/icons/apple-splash-2732-2048.jpg",
+        "feifweb/assets/icons/apple-splash-2778-1284.jpg",
+        "feifweb/assets/icons/apple-splash-640-1136.jpg",
+        "feifweb/assets/icons/apple-splash-750-1334.jpg",
+        "feifweb/assets/icons/apple-splash-828-1792.jpg",
+        "feifweb/assets/icons/icon-128x128.png",
+        "feifweb/assets/icons/icon-144x144.png",
+        "feifweb/assets/icons/icon-152x152.png",
+        "feifweb/assets/icons/icon-192x192.png",
+        "feifweb/assets/icons/icon-384x384.png",
+        "feifweb/assets/icons/icon-512x512.png",
+        "feifweb/assets/icons/icon-72x72.png",
+        "feifweb/assets/icons/icon-96x96.png",
+        "feifweb/assets/icons/manifest-icon-192.maskable.png",
+        "feifweb/assets/icons/manifest-icon-512.maskable.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "feifweb/assets/icon2.jpeg": "f59e9ffd225fea691a9da1b05266faa6b5fa32cb",
+    "feifweb/assets/icons/apple-icon-180.png": "672bea7c2b832326976069c800727d14ff1e46e4",
+    "feifweb/assets/icons/apple-splash-1125-2436.jpg": "5d4513fe125b1150fb14107cf154aa7b416ab1f6",
+    "feifweb/assets/icons/apple-splash-1136-640.jpg": "b7dc580314c34bd69b3669a48669773d55c8de0b",
+    "feifweb/assets/icons/apple-splash-1170-2532.jpg": "7e823e0fdb8a79a1fc4fcf67c0ec8033cafebd73",
+    "feifweb/assets/icons/apple-splash-1242-2208.jpg": "28c40d7a10efa4fcd14b378a764d40b36c63636c",
+    "feifweb/assets/icons/apple-splash-1242-2688.jpg": "206f9e3eed6bde18cfb522329fe4e40091079869",
+    "feifweb/assets/icons/apple-splash-1284-2778.jpg": "76d4554daf0e6a2281be79a8b32b5b5fe2e2253f",
+    "feifweb/assets/icons/apple-splash-1334-750.jpg": "caffef80b487e3785e17425685f4c2108b534bb0",
+    "feifweb/assets/icons/apple-splash-1536-2048.jpg": "1722109dea782ef6cbaaf08ec0bc63359773e68c",
+    "feifweb/assets/icons/apple-splash-1620-2160.jpg": "c130188f6d3654a3d5e55ef7324ff6034c344f9e",
+    "feifweb/assets/icons/apple-splash-1668-2224.jpg": "03a5092b45a293b479bbe97e00119da5b8c01a68",
+    "feifweb/assets/icons/apple-splash-1668-2388.jpg": "b986e3b46c433380d42d829eec472cf59a88a575",
+    "feifweb/assets/icons/apple-splash-1792-828.jpg": "a1b56c44c8fc2cc2676c50e7e2d72619e6bc5385",
+    "feifweb/assets/icons/apple-splash-2048-1536.jpg": "0eaf4f2e0786e9b3185706ef531f0455283fde05",
+    "feifweb/assets/icons/apple-splash-2048-2732.jpg": "e1e18aa05d188a4de6e17ad7ab80295b358d5e8f",
+    "feifweb/assets/icons/apple-splash-2160-1620.jpg": "c5d9af755f664390efe395dee9d61908ab0ca925",
+    "feifweb/assets/icons/apple-splash-2208-1242.jpg": "5fc6223e463126815152ae1217f42a39b1fd7137",
+    "feifweb/assets/icons/apple-splash-2224-1668.jpg": "0c964fc52ee29bbe78b121f2ae77309b8015646e",
+    "feifweb/assets/icons/apple-splash-2388-1668.jpg": "cf84c7d21e7818de11f8a91d5825f6dbea7b8139",
+    "feifweb/assets/icons/apple-splash-2436-1125.jpg": "64576a920c850aa1ba8e0e7fef53581b49c305a2",
+    "feifweb/assets/icons/apple-splash-2532-1170.jpg": "f3d316b5fd195c085996629ab84ffc057629aa45",
+    "feifweb/assets/icons/apple-splash-2688-1242.jpg": "7389a6d6b2bb86444988fa81ba1f25d063d0dc83",
+    "feifweb/assets/icons/apple-splash-2732-2048.jpg": "6ec8221eb4986bd9c66141eba9cc7d404544ed2d",
+    "feifweb/assets/icons/apple-splash-2778-1284.jpg": "7f9b1d071fbd1908c42cef62dc448480cfd58727",
+    "feifweb/assets/icons/apple-splash-640-1136.jpg": "a8f6135a6aa6f45e3e7a39831caca7345a7589ae",
+    "feifweb/assets/icons/apple-splash-750-1334.jpg": "a204164394c8cc99061184fb6b6c1b4711b758d3",
+    "feifweb/assets/icons/apple-splash-828-1792.jpg": "80f37f319227d7d9f7cdd1cfe1c6fa9a3793b29e",
+    "feifweb/assets/icons/icon-128x128.png": "9c0b2f08d95d5e5c9bf1235aac883ece0936720b",
+    "feifweb/assets/icons/icon-144x144.png": "1228e1d27268ff4d3cfccf1ff06784436595786a",
+    "feifweb/assets/icons/icon-152x152.png": "3bdaef8117cb0c20f588e938c677e34efce9f3a1",
+    "feifweb/assets/icons/icon-192x192.png": "e50bfc13f370a65ce5599ac23c6380f7f7cc9348",
+    "feifweb/assets/icons/icon-384x384.png": "0c0ad352577a0f3c0ae8564bd6d624d1c43bd108",
+    "feifweb/assets/icons/icon-512x512.png": "dc87d3a9cb2c8e8c23150b503b71e73dfcf7fa6a",
+    "feifweb/assets/icons/icon-72x72.png": "de670595cc0a79e901b92cd40d22d8da05f45257",
+    "feifweb/assets/icons/icon-96x96.png": "b882a0b69229e03e0a86647d9383b42247b562c8",
+    "feifweb/assets/icons/manifest-icon-192.maskable.png": "834158346132fdbb460e9caf60c75aff57764e3b",
+    "feifweb/assets/icons/manifest-icon-512.maskable.png": "eff58e48abd853426a9c5b8201950e9163a8d750",
+    "feifweb/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "feifweb/index.html": "7766eac2c02202cdabb6461c1a90ab54b2af5c5e",
+    "feifweb/main.6a352ac405a5ed69.js": "fac2e60ac0444ae4d509a4800447db6c597a449c",
+    "feifweb/manifest.webmanifest": "04378995f5387db9ed1a755756855b558ab33332",
+    "feifweb/polyfills.1704a7946a8cb6b6.js": "81014e9698b1a851ab1155154da7a32fce150aa3",
+    "feifweb/runtime.b10484188b67e61a.js": "4150adcd332e3c0e65de3f79c218934c9f0cdc62",
+    "feifweb/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
